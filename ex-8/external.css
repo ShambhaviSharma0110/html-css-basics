@@ -1,0 +1,29 @@
+*
+{
+padding:0;
+margin:0;
+box-sizing: 0;
+}
+img{
+    height: 100%;
+    width: 20%;
+}
+.intro{
+    
+    margin-left: 20%;
+    margin-right: 30%;
+    padding: 4%;
+   background-color: lightblue;
+}
+
+#two{
+    border-bottom-style:dashed;
+    border-top-style: dotted;
+    border-left-style: solid ;
+    border-right-style: solid;
+    margin-bottom: 0;
+    margin-top: 0;
+    margin-left: 20%;
+    margin-right: 30%;
+    padding: 2%;
+}
