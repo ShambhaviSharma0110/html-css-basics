@@ -1,0 +1,74 @@
+body
+{
+background-color: gray;
+padding: 30px;
+
+}
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: none;
+    
+  }
+ul.b li{
+    display: inline;
+    background-color: black;
+    color: white;
+    margin: auto;
+    padding-right: 5%;
+    padding-left: 5% ;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+}
+#score
+{
+    background-color: darkgreen;
+    width: 10px;
+    height: 10px;
+    padding-bottom: 7%; 
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-size: 30px;   
+    color: white;
+    margin-top: -15%;
+    margin-left: 15%;
+}
+#meta{
+    margin-left:27% ;
+    margin-top: -16%;    
+}
+#meta1{
+    margin-left:27% ;
+    margin-top: 7%; 
+    font-size: 20px;
+}
+ul.a li
+{
+    margin:auto;
+    margin-left: 30%;
+    font-size: 20px;
+    
+}
+.white{
+    background-color: white;
+    padding: 20px;
+    align-content: center;
+    
+}
+
